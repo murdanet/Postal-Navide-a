@@ -30,7 +30,9 @@
             android:layout_marginLeft="300dp"
             android:layout_marginTop="100dp"
             android:text="Para:"
-            android:textStyle="bold"
+            android:textStyle="bold|normal"
+            android:height="80dp"
+            android:textColor="@color/black"
 
 
             />
@@ -43,6 +45,7 @@
             android:layout_marginTop="130dp"
             android:textColor="#d4af37"
             android:textStyle="bold|normal"
+            android:height="60dp"
 
 
             />

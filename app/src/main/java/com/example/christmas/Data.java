@@ -11,7 +11,7 @@ import android.widget.EditText;
 public class Data extends AppCompatActivity {
 
     Button generator;
-    EditText nom,cognom;
+    EditText nom;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
